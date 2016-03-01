@@ -43,6 +43,9 @@ highlight:
   auto_detect: true
   tab_replace:
 
+# discuss
+duoshuo_shortname: Sunny's Blog
+
 # Category & Tag
 default_category: uncategorized
 category_map:
@@ -68,4 +71,6 @@ theme: landscape
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
-  type: git  repository: https://github.com/wanderxx/wanderxx.github.io.git  branch: master
+  type: git  
+  repository: https://github.com/wanderxx/wanderxx.github.io.git  
+  branch: master
